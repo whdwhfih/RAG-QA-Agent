@@ -117,16 +117,11 @@ Outputs a simple relevance score (0 or 1)
 
 ** Challenges Faced
 1]Version compatibility between LangChain, LangGraph, and ChromaDB
+
 2]Chunk size tuning for accurate retrieval
+
 3]Preventing hallucination in GPT-2 output
+
 4]Passing state correctly between graph nodes
 
-
-
-
-Task: Interview Task 1 – RAG Q&A AI Agent
-
-
-
-✅ This README satisfies all requirements for submission ✅
-If you want, I can also create a short 2-paragraph report to attach with the project. Want me to include that as well?
+T
